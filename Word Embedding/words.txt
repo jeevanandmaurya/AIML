@@ -1,0 +1,27 @@
+king queen
+man woman
+prince princess
+boy girl
+father mother
+uncle aunt
+son daughter
+nephew niece
+
+king prince
+man boy
+queen princess
+woman girl
+father son
+mother daughter
+uncle nephew
+aunt niece
+
+king man
+queen woman
+prince boy
+princess girl
+
+king father
+queen mother
+prince son
+princess daughter
